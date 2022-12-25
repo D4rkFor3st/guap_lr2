@@ -2,23 +2,14 @@
 
 Задание
 
-![изображение](https://user-images.githubusercontent.com/90793439/205446032-19686273-b527-4051-9345-27d7a54485ed.png)
+![image](https://user-images.githubusercontent.com/121386333/209470657-b8ab0736-f101-4fe1-81f1-e67f460de1c2.png)
 
 Ход работы
 
-![изображение](https://user-images.githubusercontent.com/90793439/205446385-2727c064-e3bb-43de-b820-0996cef2fe04.png)
-
-1. Пользовательский интерфейс
-2. 
-![изображение](https://user-images.githubusercontent.com/90793439/209466673-43805705-d6ad-4ebe-b2ab-62637efbc1cf.png)
-
-Форма отправки сообщений
-
-![изображение](https://user-images.githubusercontent.com/90793439/209467688-caf85cb0-7b29-497a-a1f7-efbc91e54e80.png)
-
+![image](https://user-images.githubusercontent.com/121386333/209470672-50b5c30b-5e27-4e13-b450-767f76a36f86.png)
 
 Интерфейс
-2. Пользовательский сценарий работы
+. Пользовательский сценарий работы
 
 Пользовательский сценарий
 
@@ -35,7 +26,7 @@ API сервера
 
 
 Хореография
-4. Структура базы данных
+. Структура базы данных
 
 
     "cid" типа int с автоинкрементом для выдачи уникальных id всем сообщениям
@@ -47,21 +38,21 @@ API сервера
     "image_id" типа varchar для хранения картинок
 
 
-5. Алгоритм
+. Алгоритм
 
-![изображение](https://user-images.githubusercontent.com/90793439/209468036-7e53fa37-6eeb-4a67-be57-098cfd08ae0f.png)
+![image](https://user-images.githubusercontent.com/121386333/209470683-91748f1f-c7ac-4ebd-8eac-1c2d8ce00c50.png)
 
 
-6. HTTP запрос/ответ
+. HTTP запрос/ответ
 
 Запрос
 
-![изображение](https://user-images.githubusercontent.com/90793439/209468003-7662e49f-d44c-467f-bed6-8fd6683303c3.png)
+![image](https://user-images.githubusercontent.com/121386333/209470704-f071c34c-423a-4816-a987-c9376dc364cc.png)
 
 
-![изображение](https://user-images.githubusercontent.com/90793439/209467962-c9b975b7-8655-4d7e-bb55-04e17cc7af73.png)
+![image](https://user-images.githubusercontent.com/121386333/209470719-74726c0f-a422-479b-8865-02dfd4c3e0be.png)
 
-7. Значимые фрагменты кода
+. Значимые фрагменты кода
 
 
 Отправка сообщения
